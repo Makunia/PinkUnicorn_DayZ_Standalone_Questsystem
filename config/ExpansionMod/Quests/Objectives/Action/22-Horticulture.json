@@ -1,0 +1,12 @@
+{
+    "ConfigVersion": 11,
+    "ID": 22,
+    "ObjectiveType": 10,
+    "ObjectiveText": "",
+    "TimeLimit": -1,
+    "ActionNames": [
+        "ActionDigGardenPlot"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": []
+}

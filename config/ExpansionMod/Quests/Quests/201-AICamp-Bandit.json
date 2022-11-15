@@ -1,0 +1,58 @@
+{
+    "ConfigVersion": 6,
+    "ID": 201,
+    "Type": 1,
+    "Title": "[GROUP]Clear Hero Camp",
+    "Descriptions": [
+        "Can you believe it? One of our headhunter parties found a camp of Hero... We are willing to pay if you can deal with them. If you die, you lose everything!",
+        "Eleminate all of the Heros at the camp.",
+        "Nice work! Hopefully thats the last of those fuckers, here is your payment."
+    ],
+    "ObjectiveText": "Kill all Heros at the marked location.",
+    "FollowUpQuest": -1,
+    "IsAchivement": 0,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 1,
+    "ObjectSetFileName": "bandimi",
+    "QuestClassName": "",
+    "Objectives": [
+        {
+            "ConfigVersion": 9,
+            "ID": 2,
+            "ObjectiveType": 3,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        },
+        {
+            "ConfigVersion": 9,
+            "ID": 2,
+            "ObjectiveType": 8,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        }
+    ],
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "expansionbanknotehryvnia",
+            "Amount": 20000,
+            "Attachments": []
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 0,
+    "QuestGiverIDs": [
+        1
+    ],
+    "QuestTurnInIDs": [
+        1
+    ],
+    "QuestColor": 0,
+    "ReputationReward": -3500,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": []
+}

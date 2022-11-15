@@ -1,0 +1,49 @@
+{
+    "ConfigVersion": 6,
+    "ID": 802,
+    "Type": 1,
+    "Title": "Zombie Detail",
+    "Descriptions": [
+        "We need you on Zombie Detail again, take out 50 Zombies",
+        "You are not done yet? Come back when the job is done!",
+        "We thought the Infected got your ass... Well, here is your reward."
+    ],
+    "ObjectiveText": "Kill 50 Zombies.",
+    "FollowUpQuest": -1,
+    "IsAchivement": 0,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 1,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestClassName": "",
+    "Objectives": [
+        {
+            "ConfigVersion": 10,
+            "ID": 3,
+            "ObjectiveType": 2,
+            "ObjectiveText": "",
+            "TimeLimit": -1
+        }
+    ],
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "expansionbanknotehryvnia",
+            "Amount": 2500,
+            "Attachments": []
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 0,
+    "QuestGiverIDs": [
+        5
+    ],
+    "QuestTurnInIDs": [],
+    "QuestColor": 0,
+    "ReputationReward": 500,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": []
+}

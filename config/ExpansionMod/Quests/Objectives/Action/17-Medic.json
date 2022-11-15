@@ -1,0 +1,12 @@
+{
+    "ConfigVersion": 11,
+    "ID": 17,
+    "ObjectiveType": 10,
+    "ObjectiveText": "",
+    "TimeLimit": -1,
+    "ActionNames": [
+        "ActionInjectTarget"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": []
+}

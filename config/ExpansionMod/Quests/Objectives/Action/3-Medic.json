@@ -1,0 +1,12 @@
+{
+    "ConfigVersion": 11,
+    "ID": 3,
+    "ObjectiveType": 10,
+    "ObjectiveText": "",
+    "TimeLimit": -1,
+    "ActionNames": [
+        "ActionDefibrilateTarget"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": []
+}

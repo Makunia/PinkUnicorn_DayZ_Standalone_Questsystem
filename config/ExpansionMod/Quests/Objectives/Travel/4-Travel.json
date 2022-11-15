@@ -1,0 +1,15 @@
+{
+    "ConfigVersion": 11,
+    "ID": 4,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Get to the Hero Convoy",
+    "TimeLimit": -1,
+    "Position": [
+        5509.44580078125,
+        325.12884521484377,
+        8694.65234375
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Hero Convoy",
+    "ShowDistance": 1
+}

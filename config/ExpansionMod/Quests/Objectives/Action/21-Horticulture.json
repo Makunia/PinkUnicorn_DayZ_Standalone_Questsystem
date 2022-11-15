@@ -1,0 +1,12 @@
+{
+    "ConfigVersion": 11,
+    "ID": 21,
+    "ObjectiveType": 10,
+    "ObjectiveText": "",
+    "TimeLimit": -1,
+    "ActionNames": [
+        "ActionWaterPlant"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": []
+}

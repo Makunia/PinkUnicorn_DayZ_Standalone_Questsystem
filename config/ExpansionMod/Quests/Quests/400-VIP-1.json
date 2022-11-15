@@ -1,0 +1,56 @@
+{
+    "ConfigVersion": 6,
+    "ID": 400,
+    "Type": 1,
+    "Title": "Lost Survivor",
+    "Descriptions": [
+        "This dumb ass got seperated from their group and needs safe passage home.",
+        "Escort this idiot back to their home and let Peter know the job was completed.",
+        "This aint no daycare, thanks for taking care of that. Here is your reward."
+    ],
+    "ObjectiveText": "PLACEHOLDER",
+    "FollowUpQuest": -1,
+    "IsAchivement": 0,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestClassName": "",
+    "Objectives": [
+        {
+            "ConfigVersion": 10,
+            "ID": 1,
+            "ObjectiveType": 9,
+            "ObjectiveText": "",
+            "TimeLimit": 180
+        }
+    ],
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "expansionbanknotehryvnia",
+            "Amount": 500,
+            "Attachments": []
+        },
+        {
+            "ClassName": "CJ_Key1",
+            "Amount": 1,
+            "Attachments": []
+        }
+    ],
+    "NeedToSelectReward": 1,
+    "RewardsForGroupOwnerOnly": 0,
+    "QuestGiverIDs": [
+        1
+    ],
+    "QuestTurnInIDs": [
+        1
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 100,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": []
+}

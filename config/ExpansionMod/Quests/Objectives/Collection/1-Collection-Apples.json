@@ -1,0 +1,16 @@
+{
+    "ConfigVersion": 11,
+    "ID": 1,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Collect 5 apples",
+    "TimeLimit": -1,
+    "MaxDistance": 10.0,
+    "MarkerName": "Deliver Items",
+    "ShowDistance": 1,
+    "Collections": [
+        {
+            "Amount": 5,
+            "ClassName": "Apple"
+        }
+    ]
+}

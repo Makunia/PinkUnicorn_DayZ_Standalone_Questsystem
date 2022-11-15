@@ -1,0 +1,12 @@
+{
+    "ConfigVersion": 11,
+    "ID": 5,
+    "ObjectiveType": 10,
+    "ObjectiveText": "",
+    "TimeLimit": -1,
+    "ActionNames": [
+        "ActionDisinfectTarget"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": []
+}

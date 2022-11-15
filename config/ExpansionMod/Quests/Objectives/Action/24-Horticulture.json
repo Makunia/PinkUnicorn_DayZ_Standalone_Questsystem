@@ -1,0 +1,12 @@
+{
+    "ConfigVersion": 11,
+    "ID": 24,
+    "ObjectiveType": 10,
+    "ObjectiveText": "",
+    "TimeLimit": -1,
+    "ActionNames": [
+        "ActionFertilizeSlot"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": []
+}

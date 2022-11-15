@@ -1,0 +1,15 @@
+{
+    "ConfigVersion": 11,
+    "ID": 3,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Get to the Raiders Convoy",
+    "TimeLimit": -1,
+    "Position": [
+        3148.03466796875,
+        283.7436218261719,
+        9233.1943359375
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Raiders Convoy",
+    "ShowDistance": 1
+}

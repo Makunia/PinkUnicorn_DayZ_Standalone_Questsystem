@@ -1,0 +1,12 @@
+{
+    "ConfigVersion": 11,
+    "ID": 18,
+    "ObjectiveType": 10,
+    "ObjectiveText": "",
+    "TimeLimit": -1,
+    "ActionNames": [
+        "ActionPlantSeed"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": []
+}

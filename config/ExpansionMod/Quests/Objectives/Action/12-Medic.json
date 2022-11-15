@@ -1,0 +1,12 @@
+{
+    "ConfigVersion": 11,
+    "ID": 12,
+    "ObjectiveType": 10,
+    "ObjectiveText": "",
+    "TimeLimit": -1,
+    "ActionNames": [
+        "ActionInjectMorphineTarget"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": []
+}

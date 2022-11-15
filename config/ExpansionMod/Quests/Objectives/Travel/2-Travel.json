@@ -1,0 +1,15 @@
+{
+    "ConfigVersion": 11,
+    "ID": 2,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Get to the Hero Camp",
+    "TimeLimit": -1,
+    "Position": [
+        5849.44189453125,
+        280.9460754394531,
+        10104.4208984375
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Hero Camp",
+    "ShowDistance": 1
+}

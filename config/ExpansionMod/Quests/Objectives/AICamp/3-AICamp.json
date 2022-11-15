@@ -1,0 +1,91 @@
+{
+    "ConfigVersion": 11,
+    "ID": 3,
+    "ObjectiveType": 8,
+    "ObjectiveText": "Kill all of the Raiders at the marked location",
+    "TimeLimit": -1,
+    "AICamp": {
+        "Positions": [
+            [
+                2960.357177734375,
+                269.0873107910156,
+                9337.0439453125
+            ],
+            [
+                2965.9697265625,
+                269.29022216796877,
+                9335.0419921875
+            ],
+            [
+                2957.3330078125,
+                269.1497802734375,
+                9338.1591796875
+            ],
+            [
+                2970.145751953125,
+                269.24102783203127,
+                9335.8642578125
+            ],
+            [
+                2952.32861328125,
+                269.09893798828127,
+                9343.9755859375
+            ],
+            [
+                2962.512939453125,
+                269.12750244140627,
+                9347.333984375
+            ],
+            [
+                2970.309814453125,
+                269.1695556640625,
+                9343.8544921875
+            ]
+        ],
+        "NPCSpeed": "RUN",
+        "NPCMode": "HALT",
+        "NPCFaction": "Raiders",
+        "NPCLoadoutFile": "BanditLoadout.json",
+        "NPCAccuracyMin": 90.0,
+        "NPCAccuracyMax": 99.0,
+        "ClassNames": [
+            "eAI_SurvivorM_Mirek",
+            "eAI_SurvivorM_Denis",
+            "eAI_SurvivorM_Boris",
+            "eAI_SurvivorM_Cyril",
+            "eAI_SurvivorM_Elias",
+            "eAI_SurvivorM_Francis",
+            "eAI_SurvivorM_Guo",
+            "eAI_SurvivorM_Hassan",
+            "eAI_SurvivorM_Indar",
+            "eAI_SurvivorM_Jose",
+            "eAI_SurvivorM_Kaito",
+            "eAI_SurvivorM_Lewis",
+            "eAI_SurvivorM_Manua",
+            "eAI_SurvivorM_Niki",
+            "eAI_SurvivorM_Oliver",
+            "eAI_SurvivorM_Peter",
+            "eAI_SurvivorM_Quinn",
+            "eAI_SurvivorM_Rolf",
+            "eAI_SurvivorM_Seth",
+            "eAI_SurvivorM_Taiki",
+            "eAI_SurvivorF_Linda",
+            "eAI_SurvivorF_Maria",
+            "eAI_SurvivorF_Frida",
+            "eAI_SurvivorF_Gabi",
+            "eAI_SurvivorF_Helga",
+            "eAI_SurvivorF_Irena",
+            "eAI_SurvivorF_Judy",
+            "eAI_SurvivorF_Keiko",
+            "eAI_SurvivorF_Eva",
+            "eAI_SurvivorF_Naomi",
+            "eAI_SurvivorF_Baty"
+        ],
+        "SpecialWeapon": 0,
+        "AllowedWeapons": []
+    },
+    "MinDistRadius": 50.0,
+    "MaxDistRadius": 150.0,
+    "DespawnRadius": 880.0,
+    "CanLootAI": 1
+}

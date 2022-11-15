@@ -1,0 +1,16 @@
+{
+    "ConfigVersion": 11,
+    "ID": 2,
+    "ObjectiveType": 5,
+    "ObjectiveText": "Deliver the package to Peter",
+    "TimeLimit": -1,
+    "Deliveries": [
+        {
+            "Amount": 1,
+            "ClassName": "ExpansionQuestItemPackage"
+        }
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Talk to Peter",
+    "ShowDistance": 1
+}
